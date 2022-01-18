@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love walking to anywhere <3
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yudin4&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=yudin4&theme=radical)
