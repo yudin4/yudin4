@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing my BSIS degree
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love walking to anywhere <3
+- ⚡ Fun fact: I love walking to anywhere and talking to the cats <3
 
 
 <hr>
