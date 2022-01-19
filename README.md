@@ -1,4 +1,4 @@
-### Hi, Yudin is here! 👋
+#Hi, Yudin is here! 👋
 
 <!--
 **yudin4/yudin4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p style="color:blue;font-family:Comic Sans">Here is Yudin's Current Stats!</p>
+## Here is Yudin's Current Stats!
 
 <br>
  <a href="https://github.com/yudin4/github-readme-streak-stats">
