@@ -10,4 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love walking to anywhere <3
 
+
+### Here is my current stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yudin4&theme=dracula)
+
+
+<a href="https://github.com/yudin4/github-readme-stats"><img alt="Yudin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudin4&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
