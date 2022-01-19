@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently pursuing my BSIS degree
-- 🤔 I’m looking for help with any programming related stuffs
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love walking to anywhere <3
 
