@@ -10,14 +10,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love walking to anywhere <3
 
-<br>
 
-### Here is my current stats
+### Here is Yudin's current stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yudin4&theme=dracula)
-  <br/>
-    <a href="https://github.com/yudin4/github-readme-stats"><img alt="Yudin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yudin4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/yudin4/github-readme-stats"><img alt="Yudin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudin4&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-<br/>
-<br/>
+<p align="center">
+    <a href="https://github.com/yudin4/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+<br>
+<a href="https://github.com/yudin4/github-readme-stats"><img alt="Yudin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yudin4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/yudin4/github-readme-stats"><img alt="Yudin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudin4&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
