@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 
 
 <hr>
-<br>
-### Here is Yudin's Current Stats!
+
+<p style="color:blue;font-family:Comic Sans">Here is Yudin's Current Stats!</p>
+
 <br>
  <a href="https://github.com/yudin4/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yudin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yudin4&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
