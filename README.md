@@ -8,7 +8,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing my BSIS / Bachelor of Computer Science aka S.Kom (in Indonesia) degree 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love taking photos of cats <3
+- ⚡ Fun fact: I love taking a lot of photos of cats <3
+
+Dont foget to check my college github account https://github.com/rhmdin
 
 
 <hr>
